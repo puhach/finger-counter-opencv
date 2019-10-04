@@ -2,7 +2,7 @@
 
 [image1]: ./images/fingercounter1.png "Hand recognition"
 
-### Finger Counter
+# Finger Counter
 
 The application counts the number of lifted fingers looking through a webcam. 
 
@@ -11,7 +11,7 @@ The application counts the number of lifted fingers looking through a webcam.
 The list of required packages can be found in `pip_requirements.txt`.
 
 Clone this repo:
-`git clone https://github.com/puhach/finger-counter-opencv.git`.
+```git clone https://github.com/puhach/finger-counter-opencv.git```
 
 ## Usage
 
@@ -24,4 +24,4 @@ Clone this repo:
 
 ## Acknowledgements
 
-The code is based on the ideas borrowed from the course [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)
+The code is based on the ideas borrowed from the course [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/).
